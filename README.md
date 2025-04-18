@@ -1,6 +1,6 @@
 # Cheat Selling Website V2 (Frontend)
 
-<img  src="https://i.imgur.com/AoHuIlF.png" width="500">
+<img src="https://i.imgur.com/AoHuIlF.png" width="500">
 
 This repository contains the frontend implementation of the Cheat Selling Website project. It provides a user-facing interface for browsing and viewing available products.
 
